@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Daily Firestorm</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_change_units">Change Units</string>
+
+    <string name="local_service_started">Service Started</string>
+    <string name="remote_service_label">Daily Firestorm</string>
+
+    <string name="temp_label_string">The current temperature is:</string>
+    <string name="temp_string">Unknown</string>
+
+    <string name="message_label_string">Daily Bit:</string>
+    <string name="message_string">Unknown</string>
+
+
+</resources>
